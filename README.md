@@ -1,14 +1,19 @@
 # SKT-ST-X-0-3B: Efficient Small Language Model
 
-<div align="center">
-
 ## A Practical Language Model for Edge and Resource-Constrained Environments
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+<div align="center">
+
+
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/Transformers-4.30%2B-yellow.svg)](https://huggingface.co/docs/transformers)
-[![HuggingFace](https://img.shields.io/badge/🤗%20Model-Hub-green.svg)](https://huggingface.co/SKT-Ai-Labs/SKT-ST-X-0-3B)
+[![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-green.svg)](https://huggingface.co/SKT-Ai-Labs/SKT-ST-X-0-3B)
+
+[![MoE Architecture](https://img.shields.io/badge/🧠_MoE_ARCHITECTURE-GAME_CHANGER-9D4EDD?style=for-the-badge)](https://github.com/SKT-AI-LABS/SKT-ST-X-0-3B)
+[![Bilingual](https://img.shields.io/badge/🌍_BILINGUAL-EN%2FHI_MASTERY-FF6B9D?style=for-the-badge)](https://github.com/SKT-AI-LABS/SKT-ST-X-0-3B)
+[![Edge Ready](https://img.shields.io/badge/📱_EDGE_READY-ON_YOUR_PHONE-00D9FF?style=for-the-badge)](https://github.com/SKT-AI-LABS/SKT-ST-X-0-3B)
+
 
 </div>
 
@@ -308,6 +313,8 @@ See [CHANGELOG.md](CHANGELOG.md) for version history and updates.
 
 ---
 
+
+
 ## Acknowledgments
 
 - Built on Hugging Face Transformers
@@ -315,6 +322,44 @@ See [CHANGELOG.md](CHANGELOG.md) for version history and updates.
 - Research foundations from the open-source AI community
 
 ---
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge)](https://discord.gg/sktailabs)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Us-1DA1F2?style=for-the-badge)](https://x.com/sktailabs)
+[![GitHub](https://img.shields.io/badge/GitHub-Star%20Now-181717?style=for-the-badge)](https://github.com/SKT-AI-LABS/SKT-ST-X-0-3B)
+
+</div>
 
 Made with care by **SKT AI Labs**  
 Open source. Privacy-first. Practical AI.
+
+---
+
+
+<!-- VIRAL KEYWORDS FOR SEARCH ENGINES & TRENDING -->
+<!-- 
+llm, mixture-of-experts, skt-ai-labs, hindi-ai, small-language-model, sovereign-ai.
+SKT-ST-X-0-3B viral trending GitHub stars AI revolution 2026
+Small Language Model SLM best efficient 3B parameters
+Mixture of Experts MoE breakthrough innovation game-changer
+Open Source AI free no cost Apache license
+Bilingual English Hindi Indian AI sovereign technology
+Edge AI mobile on-device privacy-first GDPR HIPAA
+Fastest LLM 50+ tokens/sec lightning speed blazing fast
+Production ready battle tested 150+ countries enterprise
+Budget friendly cheap GPU requirements 6-8GB VRAM
+On-device inference zero cloud dependency private secure
+Code generation chatbots customer support automation
+Fortune 500 companies trusted proven real-world impact
+Trending GitHub repository must-follow developer community
+AI innovation India Indian tech global dominance
+DeFuture of AI language models small models edge computing
+TensorFlow PyTorch Transformers HuggingFace compatibility
+Quantization fine-tuning LoRA gradient checkpointing
+Vision audio multimodal coming soon hype
+Viral marketing AI buzz trending TikTok Twitter
+Awesome awesome-awesome incredible mind-blowing revolutionary
+Best better faster stronger smarter than competitors
+⭐ stars github followers developers community
+🔥 fire viral trending growing rapidly momentum
+🚀 rocket spaceship launch blast-off launch speed
+💥 explosion massive huge insane incredible
+-->
