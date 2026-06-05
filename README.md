@@ -1,9 +1,39 @@
 # SKT-ST-X-0-3B 🚀
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/SKT-AI-LABS/SKT-ST-X-0-3B?style=social)](https://github.com/SKT-AI-LABS/SKT-ST-X-0-3B)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/SKT-AI-LABS/SKT-ST-X-0-3B/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org/)
+[![Transformers](https://img.shields.io/badge/Transformers-4.30%2B-yellow.svg)](https://huggingface.co/docs/transformers)
+[![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-green.svg)](https://huggingface.co/SKT-Ai-Labs/SKT-ST-X-0-3B)
+
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)](https://github.com/SKT-AI-LABS/SKT-ST-X-0-3B)
+[![Model Size](https://img.shields.io/badge/Model%20Size-3B%20Parameters-blue.svg)]()
+[![Active Parameters](https://img.shields.io/badge/Active%20Parameters-1.1B-blue.svg)]()
+[![Context](https://img.shields.io/badge/Context%20Length-8K%20Tokens-blue.svg)]()
+[![Language](https://img.shields.io/badge/Language-English%20%7C%20Hindi-green.svg)]()
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)]()
+
+[![Mixture of Experts](https://img.shields.io/badge/Architecture-MoE-purple.svg)]()
+[![Bilingual](https://img.shields.io/badge/Bilingual-EN%2FHI-orange.svg)]()
+[![Edge Ready](https://img.shields.io/badge/Edge%20Ready-✓-brightgreen.svg)]()
+[![Privacy First](https://img.shields.io/badge/Privacy%20First-On%20Device-blue.svg)]()
+[![Low VRAM](https://img.shields.io/badge/VRAM%20Usage-6%20GB-brightgreen.svg)]()
+[![Fast Inference](https://img.shields.io/badge/Inference-50%2B%20tok%2Fs-blue.svg)]()
+
+![SKT-ST-X-0-3B Banner](figures.png)
+
+### ⭐ Star us on GitHub! Your support helps us reach millions of developers worldwide ⭐
+
+</div>
+
+---
+
 **The Most Efficient 3B Mixture of Experts (MoE) Model for Bilingual Reasoning.**
 
 SKT-ST-X-0-3B is a **sovereign Small Language Model (SLM)** engineered by **SKT AI LABS, India** - the next-generation open-source AI solution for developers worldwide. Designed to deliver high-level reasoning, coding, and natural language understanding capabilities while maintaining an incredibly small footprint, this cutting-edge model represents the future of democratized AI technology.
-
-![SKT-ST-X-0-3B Showcase](figures.png)
 
 ## 🌟 Why SKT-ST-X-0-3B?
 
