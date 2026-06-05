@@ -23,7 +23,7 @@
 [![Low VRAM](https://img.shields.io/badge/VRAM%20Usage-6%20GB-brightgreen.svg)]()
 [![Fast Inference](https://img.shields.io/badge/Inference-50%2B%20tok%2Fs-blue.svg)]()
 
-![SKT-ST-X-0-3B Banner](figures.png)
+![SKT-ST-X-0-3B Banner](figures/IMG_20260604_001901.png)
 
 ### ⭐ Star us on GitHub! Your support helps us reach millions of developers worldwide ⭐
 
@@ -142,7 +142,7 @@ Love this project? **Please click the ⭐ button** at the top to support Indian 
  * **📧 Contact:** support@sktailabs.in
  * **🤗 Hugging Face:** [View on Hugging Face](https://huggingface.co/SKT-Ai-Labs/SKT-ST-X-0-3B)
  * **💬 Discord:** [Join Our Community](https://discord.gg/sktailabs)
- * **🐦 Twitter:** [@SKT_AI_LABS](https://twitter.com/SKT_AI_LABS)
+ * **🐦 Twitter:** [SKT_AI_LABS](https://x.com/sktailabs)
  * **📚 Documentation:** [Full Docs](https://docs.sktailabs.in)
 
 ### Contribute & Collaborate
@@ -204,7 +204,3 @@ python inference.py
 <!-- Small Language Model SLM Mixture of Experts MoE Bilingual AI Indian AI Open Source Sovereign Edge Computing Language Model LLM Code Generation Reasoning Efficient Lightweight 3B Parameters MoE Architecture Transformers PyTorch Hugging Face CUDA GPU Accelerated Inference Optimization VRAM Efficient Low Latency Production Ready Real-time AI Mobile Edge Deployment IoT On-Device Privacy First Data Security GDPR HIPAA Compliance Cost-effective Affordable Accessible Democratic Community-driven Developer-friendly API Simple Easy Installation Quick Start Transfer Learning Fine-tuning LoRA Quantization 4-bit 8-bit Knowledge Distillation Model Compression Pruning Neural Networks Deep Learning Machine Learning Natural Language Processing NLP Text Generation Summarization Translation Chatbots Virtual Assistants Conversational AI Dialogue Systems Q&A Question Answering Information Retrieval Content Creation Code Completion Code Generation Python Java JavaScript Entity Recognition Sentiment Analysis Classification Named Entity Recognition NER Dependency Parsing POS Tagging Tokenization Attention Mechanism Transformer BERT GPT T5 Llama Mistral Phi Falcon Alpaca Vicuna Orca Autoregressive Causal Language Modeling Encoder-Decoder Embeddings Word Vectors Contextual Pre-training Supervised Unsupervised Semi-supervised Reinforcement Learning RLHF Human Feedback Alignment Safety Interpretability Explainability Evaluation Benchmarking MMLU TruthfulQA Toxicity Bias Fairness Ethics Governance Regulatory Compliance Data Privacy Differential Privacy Federated Learning Distributed Systems Microservices Container Docker Kubernetes MLOps DevOps CI/CD Monitoring Logging Analytics Metrics Observability Testing Unit Integration End-to-End Performance Load Stress Security Vulnerability Assessment Penetration Testing API REST SDK Library Framework Middleware Routing Caching Database Storage Cloud File System ETL Pipeline Workflow Job Scheduler Message Queue Event Streaming Pub-Sub Concurrency Parallelism Thread Safety Async Non-blocking Reactive Functional Object-oriented Domain Specific Language Query SQL NoSQL Graph Time Series Search Index Optimization Planning Cost-based Cardinality Statistics Join Aggregation Window Functions Partitioning Bucketing Sharding Replication Backup Recovery Disaster High Availability Redundancy Failover Load Balancing Service Discovery Configuration Secrets Key Management Encryption Hashing Signatures PKI Certificate Authority SSL TLS HTTPS SSH VPN Firewall DDoS Rate Limiting Throttling Circuit Breaker Bulkhead Retry Timeout Backoff Jitter Health Check Probe Readiness Liveness Graceful Shutdown Draining Warm-up Preloading Strategy LRU LFU Write-through Behind Around Coherence Consistency Strong Eventual Causal Linearizability Serializability ACID BASE CAP Theorem Partition Tolerance Availability Guarantee Scalability Performance Throughput Latency Bandwidth Resource Management CPU Memory Disk Utilization Profiling Debugging Architecture Design Pattern Best Practice Standard Code Quality Type Safety Error Exception Handler Error Handling Deprecation Backwards Compatibility Matrix Hardware Software Requirements Dependencies Pip Conda Package Docker Container Orchestration Deployment Production Grade Tested Reliable Stable Secure Trustworthy Ethical Responsible Bias Mitigation Interpretable Explainable Evaluable Benchmarkable Community Forum Discussion Board Issue Tracker Feature Request Roadmap Release Update Changelog Breaking Migration Guide Version Control Git GitHub GitLab Collaborative Contribution Pull Request Review Code Standards Linting Formatting Documentation Tutorials Examples Samples Getting Help Support FAQ Troubleshooting Frequently Asked Questions Common Issues Problem Solutions Workarounds Tips Tricks Optimization Techniques Resource Efficiency Capacity Planning Stress Testing Load Testing Performance Profiling User Experience Interface Design Accessibility Usability UX -->
 
 ---
-
-**Last Updated:** June 5, 2026  
-**Repository:** [GitHub](https://github.com/SKT-AI-LABS/SKT-ST-X-0-3B)  
-**Organization:** [SKT AI LABS](https://github.com/SKT-AI-LABS)
