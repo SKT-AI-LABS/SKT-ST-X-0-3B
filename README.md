@@ -37,7 +37,16 @@ SKT-ST-X-0-3B is a 3-billion parameter language model optimized for efficiency a
 
 ---
 
-## Quick Start
+## Quick Start Or Directly On Phone 
+
+
+## 🔗 Quick Links
+
+| Resource | Link |
+| :--- | :--- |
+| **Model Repository (Hugging Face)** | [sKT-Ai-Labs/SKT-ST-X-0-3B](https://huggingface.co/sKT-Ai-Labs/SKT-ST-X-0-3B) |
+| **Quantized Model (GGUF Format)** | [mradermacher/SKT-ST-X-0-3B-GGUF](https://huggingface.co/mradermacher/SKT-ST-X-0-3B-GGUF) |
+
 
 ### Installation
 
