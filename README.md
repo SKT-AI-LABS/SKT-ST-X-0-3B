@@ -1,5 +1,7 @@
 # SKT-ST-X-0-3B: Efficient Small Language Model
 
+![SKT-ST-X-0-3B Showcase](figures/IMG_20260604_001901.png)
+
 ## A Practical Language Model for Edge and Resource-Constrained Environments
 
 <div align="center">
